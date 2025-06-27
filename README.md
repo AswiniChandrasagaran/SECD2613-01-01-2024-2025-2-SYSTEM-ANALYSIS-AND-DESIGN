@@ -6,11 +6,12 @@ contents are sequentially organized directly from planning, analysis, designing 
 phases. From the resulting output of the planning and analysis phase shall enable students to form
 input, output and interface design. Hence a prototype design can be demonstrated.
 
-TOPIC I SYSTEMS ANALYSIS FUNDAMENTAL
+# TOPIC I SYSTEMS ANALYSIS FUNDAMENTAL
 
 Part 1
 
 ● Organizational impact on Information System
+
 ● Types of Information Systems
 
 Part 2
@@ -21,7 +22,7 @@ Part 3
 
 ● Types, trend and approach towards developing information system
 
-TOPIC II PROJECT PLANNING PROCESS
+# TOPIC II PROJECT PLANNING PROCESS
 
 Part 1
 
@@ -43,7 +44,7 @@ Part 3
 
 ● Project Management
 
-TOPIC III INFORMATION REQUIREMENT TASK
+# TOPIC III INFORMATION REQUIREMENT TASK
 
 Part 1
 
@@ -53,7 +54,7 @@ Part 2
 
 ● Information Gathering – Unobtrusive Methods
 
-TOPIC IV THE ANALYSIS PROCESS
+# TOPIC IV THE ANALYSIS PROCESS
 
 Part 1
 
@@ -79,7 +80,7 @@ Structured English)
 ● Design Structure Chart
 
 
-TOPIC V THE DESIGN TASK
+# TOPIC V THE DESIGN TASK
 
 Part 1
 
@@ -97,7 +98,7 @@ Part 3
 
 ● Introduction of designing tools (Figma)
 
-TOPIC VI SYSTEMS IMPLEMENTATION
+# TOPIC VI SYSTEMS IMPLEMENTATION
 
 Part 1
 
