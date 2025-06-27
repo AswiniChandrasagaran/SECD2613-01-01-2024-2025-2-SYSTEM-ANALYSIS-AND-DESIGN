@@ -1,19 +1,65 @@
 # SECD2613-01-01-2024-2025-2-SYSTEM-ANALYSIS-AND-DESIGN
-This course introduces the concepts and techniques of analyzing and designing information systems. Students will learn to gather requirements, model systems using tools like DFD, ERD, and UML, and apply structured methods within the System Development Life Cycle (SDLC).
+The main focus of this course is to provide a practical approach of systems analysis and designing
+skills for the students using structured methodology. Hence, the course enables students to study
+information system requirements for any system application within an organizational context. The
+contents are sequentially organized directly from planning, analysis, designing and implementation
+phases. From the resulting output of the planning and analysis phase shall enable students to form
+input, output and interface design. Hence a prototype design can be demonstrated.
 
-TOPIC 1 - FUNDAMENTALS OF SYSTEM ANALYSIS & DESIGN
+TOPIC I SYSTEMS ANALYSIS FUNDAMENTAL
+Part 1
+● Organizational impact on Information System
+● Types of Information Systems
+Part 2
+● Systems analyst role
+Part 3
+● Types, trend and approach towards developing information system
 
-TOPIC 2 - PROJECT PLANNING PROCESS
+TOPIC II PROJECT PLANNING PROCESS
+Part 1
+● Project feasibility studies
+● Project initiation
+Part 2
+● Project planning and control
+● Project schedules and techniques (Gantt Chart, PERT Chart, Critical Path Method)
+● WBS
+Part 3
+● Project cost management (CBA)
+● Project Management
 
-TOPIC 3 - INFORMATION GATHERING
+TOPIC III INFORMATION REQUIREMENT TASK
+Part 1
+● Information Gathering – Interactive Methods
+Part 2
+● Information Gathering – Unobtrusive Methods
 
-TOPIC 4 (PART 1) - THE ANALYSIS PROCESS (DATA FLOW DIAGRAM)
+TOPIC IV THE ANALYSIS PROCESS
+Part 1
+● Introduction to Data Flow Diagrams (DFD)
+Part 2
+● DFD Errors
+● Introduction to DFD Enterprise Architecture
+Part 3
+● From Logical to Physical DFD
+● Partitioning DFD
+Part 4
+● Describing Process Specification and techniques (Decision trees, Decision table,
+Structured English)
+● Design Structure Chart
 
-TOPIC 4 (PART 2) - PROCESS SPECIFICATION
+TOPIC V THE DESIGN TASK
+Part 1
+● Designing Effective Output
+Part 2
+● Designing Effective Input
+Part 3
+● Designing User Interfaces
+● Storytelling HCI
+● Introduction of designing tools (Figma)
 
-TOPIC 4 (PART 3) - STRUCTURE CHART
-
-TOPIC 5 - DESIGN TASK
-
-TOPIC 6 - SYSTEMS IMPLEMENTATION
-
+TOPIC VI SYSTEMS IMPLEMENTATION
+Part 1
+● User Testing and acceptance test
+● Training plan & strategies
+Part 2
+● Implementation plan & strategies
