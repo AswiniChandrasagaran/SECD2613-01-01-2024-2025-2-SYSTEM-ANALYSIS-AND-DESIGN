@@ -9,6 +9,7 @@ input, output and interface design. Hence a prototype design can be demonstrated
 TOPIC I SYSTEMS ANALYSIS FUNDAMENTAL
 
 Part 1
+
 ● Organizational impact on Information System
 ● Types of Information Systems
 
