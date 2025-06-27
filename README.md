@@ -7,59 +7,105 @@ phases. From the resulting output of the planning and analysis phase shall enabl
 input, output and interface design. Hence a prototype design can be demonstrated.
 
 TOPIC I SYSTEMS ANALYSIS FUNDAMENTAL
+
 Part 1
+
 ● Organizational impact on Information System
+
 ● Types of Information Systems
+
 Part 2
+
 ● Systems analyst role
+
 Part 3
+
 ● Types, trend and approach towards developing information system
 
 TOPIC II PROJECT PLANNING PROCESS
+
 Part 1
+
 ● Project feasibility studies
+
 ● Project initiation
+
 Part 2
+
 ● Project planning and control
+
 ● Project schedules and techniques (Gantt Chart, PERT Chart, Critical Path Method)
+
 ● WBS
+
 Part 3
+
 ● Project cost management (CBA)
+
 ● Project Management
 
 TOPIC III INFORMATION REQUIREMENT TASK
+
 Part 1
+
 ● Information Gathering – Interactive Methods
+
 Part 2
+
 ● Information Gathering – Unobtrusive Methods
 
 TOPIC IV THE ANALYSIS PROCESS
+
 Part 1
+
 ● Introduction to Data Flow Diagrams (DFD)
+
 Part 2
+
 ● DFD Errors
+
 ● Introduction to DFD Enterprise Architecture
+
 Part 3
+
 ● From Logical to Physical DFD
+
 ● Partitioning DFD
 Part 4
+
 ● Describing Process Specification and techniques (Decision trees, Decision table,
+
 Structured English)
+
 ● Design Structure Chart
 
+
 TOPIC V THE DESIGN TASK
+
 Part 1
+
 ● Designing Effective Output
+
 Part 2
+
 ● Designing Effective Input
+
 Part 3
+
 ● Designing User Interfaces
+
 ● Storytelling HCI
+
 ● Introduction of designing tools (Figma)
 
 TOPIC VI SYSTEMS IMPLEMENTATION
+
 Part 1
+
 ● User Testing and acceptance test
+
 ● Training plan & strategies
+
 Part 2
+
 ● Implementation plan & strategies
